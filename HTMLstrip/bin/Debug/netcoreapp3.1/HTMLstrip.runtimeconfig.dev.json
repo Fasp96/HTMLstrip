@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fasp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fasp\\.nuget\\packages"
+    ]
+  }
+}

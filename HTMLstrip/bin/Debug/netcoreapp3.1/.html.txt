@@ -1,0 +1,26 @@
+    HTML-exercise
+    Umazon
+                                                                                                                                Barato
+                                                                                                        Seguro                                          Grandes preços
+    Bem vindo à página de compra e venda da Universidade da Madeira
+        Melhores preços nas marcas:
+            AppleLGAdidas.
+            Samsung
+            NikeSonyDell
+    Novidades
+        Macbook Pro 2013 &trade;
+        Tela Retina: tela de 13,3 polegadas (diagonal) retroiluminada por LED, com tecnologia IPS, resolução de 2560x1600 com 
+        227 pixels por polegada e compatibilidade com milhões de cores  
+        Resolução nativa: 2560x1600 pixels (Retina), resoluções em escala: 1680x1050, 1440x 900 e 1024x640 pixels
+        Processador Rápido
+        Bateria de grande capacidade
+        1500€
+        Monitor LG 30&quot;
+        Monitor LG
+        The clarity and fine details of 4K UHD will amaze, even when viewed up close thanks 8.3 million pixels on a screen with 
+        resolution of 3840 x 2160. That's four times the resolution of Full HD.
+        Alta resolução
+        30 polegadas
+        400€
+    Ajuda
+    Ajuda Página criada para a 3a aula de ACR. Sem fins comerciais
