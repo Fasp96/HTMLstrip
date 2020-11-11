@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\fasp\\Documents\\GitHub\\HTMLstrip\\HTMLstrip\\HTMLstrip.csproj": {}
+    "D:\\Users\\fasp\\OneDrive - Universidade da Madeira\\UMa\\Mestrado\\Engenharia de Software\\4. Projeto\\GitHub\\HTMLstrip\\HTMLstrip\\HTMLstrip.csproj": {}
   },
   "projects": {
-    "D:\\Users\\fasp\\Documents\\GitHub\\HTMLstrip\\HTMLstrip\\HTMLstrip.csproj": {
+    "D:\\Users\\fasp\\OneDrive - Universidade da Madeira\\UMa\\Mestrado\\Engenharia de Software\\4. Projeto\\GitHub\\HTMLstrip\\HTMLstrip\\HTMLstrip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\fasp\\Documents\\GitHub\\HTMLstrip\\HTMLstrip\\HTMLstrip.csproj",
+        "projectUniqueName": "D:\\Users\\fasp\\OneDrive - Universidade da Madeira\\UMa\\Mestrado\\Engenharia de Software\\4. Projeto\\GitHub\\HTMLstrip\\HTMLstrip\\HTMLstrip.csproj",
         "projectName": "HTMLstrip",
-        "projectPath": "D:\\Users\\fasp\\Documents\\GitHub\\HTMLstrip\\HTMLstrip\\HTMLstrip.csproj",
+        "projectPath": "D:\\Users\\fasp\\OneDrive - Universidade da Madeira\\UMa\\Mestrado\\Engenharia de Software\\4. Projeto\\GitHub\\HTMLstrip\\HTMLstrip\\HTMLstrip.csproj",
         "packagesPath": "C:\\Users\\fasp\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\fasp\\Documents\\GitHub\\HTMLstrip\\HTMLstrip\\obj\\",
+        "outputPath": "D:\\Users\\fasp\\OneDrive - Universidade da Madeira\\UMa\\Mestrado\\Engenharia de Software\\4. Projeto\\GitHub\\HTMLstrip\\HTMLstrip\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\fasp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

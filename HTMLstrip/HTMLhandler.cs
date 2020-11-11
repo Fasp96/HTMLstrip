@@ -5,7 +5,7 @@ namespace HTMLstrip
 {
     class HTMLhandler
     {
-
+        //Method to strip HTML from the a html file
         public string StripHTML(string filename)
         {
             string fileContent = ReadHTML(filename);

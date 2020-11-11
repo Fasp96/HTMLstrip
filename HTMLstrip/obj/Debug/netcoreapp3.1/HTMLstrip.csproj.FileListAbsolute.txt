@@ -24,3 +24,16 @@ D:\Users\fasp\Documents\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLs
 D:\Users\fasp\Documents\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.dll
 D:\Users\fasp\Documents\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.pdb
 D:\Users\fasp\Documents\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.genruntimeconfig.cache
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\bin\Debug\netcoreapp3.1\HTMLstrip.exe
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\bin\Debug\netcoreapp3.1\HTMLstrip.deps.json
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\bin\Debug\netcoreapp3.1\HTMLstrip.runtimeconfig.json
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\bin\Debug\netcoreapp3.1\HTMLstrip.runtimeconfig.dev.json
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\bin\Debug\netcoreapp3.1\HTMLstrip.dll
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\bin\Debug\netcoreapp3.1\HTMLstrip.pdb
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.csprojAssemblyReference.cache
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.AssemblyInfoInputs.cache
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.AssemblyInfo.cs
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.csproj.CoreCompileInputs.cache
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.dll
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.pdb
+D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\GitHub\HTMLstrip\HTMLstrip\obj\Debug\netcoreapp3.1\HTMLstrip.genruntimeconfig.cache

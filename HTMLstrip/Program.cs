@@ -1,5 +1,5 @@
 ﻿using System;
-using System.IO;
+
 //D:\\Users\\fasp\\OneDrive - Universidade da Madeira\\UMa\\Mestrado\\Engenharia de Software\\4. Projeto\\HTMLstrip\\HTML-exercise.html
 namespace HTMLstrip
 {
@@ -10,22 +10,20 @@ namespace HTMLstrip
             HTMLhandler Htmlhandler = new HTMLhandler();
             string input;
             string result;
-
             ShowInstructions();
 
             for (; ; )
             {
-                //Input
                 Console.Write("\n? ");
                 input = Console.ReadLine();
                 if (string.IsNullOrWhiteSpace(input)) break;
 
-                //Show Results
+                
                 result = ShowResults(Htmlhandler, input);
 
-                if (!result.Equals(""))
+                //Verifies if there is a result
+                if (!string.IsNullOrEmpty(result))
                 {
-                    //Show saving
                     ShowSaveFile(input, result);
                 }
             }
@@ -49,7 +47,7 @@ namespace HTMLstrip
             if (!inputHandler.ValidateInput(input))
             {
                 Console.WriteLine("Not valid input\n");
-                return "";
+                return null;
             }
 
             //Shows the result
