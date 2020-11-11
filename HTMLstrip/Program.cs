@@ -1,6 +1,5 @@
 ﻿using System;
 
-//D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\HTMLstrip\HTML-exercise.html
 namespace HTMLstrip
 {
     class Program
@@ -37,7 +36,11 @@ namespace HTMLstrip
                 "HTMLstrip - version 0.1\n" +
                 "** Alows users to extract blocks of text from an HTML file or string. **\n\n" +
                 "For example:\n\n" +
-                "\t? D:\\Users\\fasp\\Documents\\HTML-exercise.html (file directory)\n"
+                "\t? D:\\Users\\fasp\\Documents\\HTML-exercise.html (file directory)\n" +
+                "\nThere is a file available for demo (insert this directory in the input):\n\n" +
+                "\t../../../../Examples/HTML-exercise.html\n" +
+                "\t../../../../Examples/Umazon.html\n" +
+                "\t../../../../Examples/Aula4.html\n"
                 );
         }
 
@@ -48,18 +51,16 @@ namespace HTMLstrip
             InputHandler inputHandler = new InputHandler();
             string result;
 
-
-            if (!inputHandler.ValidateInput(input))
+            if (inputHandler.ValidateInput(input))
             {
-                Console.WriteLine("Not valid input\n");
-                return null;
+                //Shows the result
+                Console.WriteLine("\n\nText extracted from {0}:\n", input);
+                result = Htmlhandler.StripHTML(input);
+                Console.WriteLine(result);
+                return result;
             }
-
-            //Shows the result
-            Console.WriteLine("\n\nText extracted from {0}:\n", input);
-            result = Htmlhandler.StripHTML(input);
-            Console.WriteLine(result);
-            return result;
+            Console.WriteLine("Not valid input\n");
+            return null;
         }
 
 
