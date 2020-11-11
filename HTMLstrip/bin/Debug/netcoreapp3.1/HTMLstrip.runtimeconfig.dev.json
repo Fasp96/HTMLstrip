@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\fasp\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\fasp\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\fasp\\.nuget\\packages"
     ]
   }
 }

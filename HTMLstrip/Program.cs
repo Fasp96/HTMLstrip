@@ -1,6 +1,6 @@
 ﻿using System;
 
-//D:\\Users\\fasp\\OneDrive - Universidade da Madeira\\UMa\\Mestrado\\Engenharia de Software\\4. Projeto\\HTMLstrip\\HTML-exercise.html
+//D:\Users\fasp\OneDrive - Universidade da Madeira\UMa\Mestrado\Engenharia de Software\4. Projeto\HTMLstrip\HTML-exercise.html
 namespace HTMLstrip
 {
     class Program
@@ -18,7 +18,6 @@ namespace HTMLstrip
                 input = Console.ReadLine();
                 if (string.IsNullOrWhiteSpace(input)) break;
 
-                
                 result = ShowResults(Htmlhandler, input);
 
                 //Verifies if there is a result
@@ -26,9 +25,12 @@ namespace HTMLstrip
                 {
                     ShowSaveFile(input, result);
                 }
+                Console.WriteLine("\nHTMLstrip - version 0.1");
             }
         }
 
+
+        //Method to show the instructions to use the HTMLstrip
         private static void ShowInstructions()
         {
             Console.WriteLine(
@@ -39,10 +41,13 @@ namespace HTMLstrip
                 );
         }
 
+
+        //Method to show the results from the HTMLstrip
         private static string ShowResults(HTMLhandler Htmlhandler, string input)
         {
             InputHandler inputHandler = new InputHandler();
             string result;
+
 
             if (!inputHandler.ValidateInput(input))
             {
@@ -57,6 +62,8 @@ namespace HTMLstrip
             return result;
         }
 
+
+        //Method to show a message asking if user wants to save the reult in a .txt file
         private static void ShowSaveFile(string input, string result)
         {
             SaveHandler saveHandler = new SaveHandler();
@@ -76,7 +83,6 @@ namespace HTMLstrip
                 Console.Clear();
                 Console.WriteLine("The text extracted wasn't saved");
             }
-            Console.WriteLine("\nHTMLstrip - version 0.1");
         }
 
     }

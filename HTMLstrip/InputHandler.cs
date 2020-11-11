@@ -5,7 +5,7 @@ namespace HTMLstrip
 {
     class InputHandler
     {
-        //Method to verify if is a .html file and if it it exists and returns true or false
+        //Method to verify if it's a .html file and if it exists
         public bool ValidateInput(string input)
         {
             return (File.Exists(input) && input.Split('.').Last().Equals("html"));
