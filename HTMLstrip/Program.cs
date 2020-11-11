@@ -9,6 +9,7 @@ namespace HTMLstrip
             HTMLhandler Htmlhandler = new HTMLhandler();
             string input;
             string result;
+
             ShowInstructions();
 
             for (; ; )
